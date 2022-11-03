@@ -12,5 +12,12 @@
 
 2. When entering birth information and male gender, the options will be:
 
-![homem](https://user-images.githubusercontent.com/105439209/199809747-e06707c6-309b-4399-95be-3516ac49f9d9.png)
-![velhote](https://user-images.githubusercontent.com/105439209/199809761-f13f8477-d6fb-48a3-923d-127f12cad9d8.png)
+![calculo homem](https://user-images.githubusercontent.com/105439209/199810356-ee6b03e8-6465-414a-8161-1fe67675699e.png)
+
+![calculo senhor](https://user-images.githubusercontent.com/105439209/199810362-6e6ca729-46d5-48d2-bcc6-da49635fcef4.png)
+
+3. When entering the birth information and the female gender, the options will be:
+
+![calculo mulher](https://user-images.githubusercontent.com/105439209/199810359-2904853b-707e-4e27-9d76-7fd5d1b569b9.png)
+
+![calculo senhora](https://user-images.githubusercontent.com/105439209/199810366-ac31e9e0-30ab-4cbb-bdef-9517fe592174.png)
