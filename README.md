@@ -5,3 +5,5 @@
 > Displays a photo with the indicated genre
 
 > Displays the user's age
+
+1. When entering the program, you will find the following display
